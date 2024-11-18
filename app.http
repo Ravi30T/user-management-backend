@@ -1,0 +1,15 @@
+
+// API-1 Creating New Account
+
+{
+    "firstName": "Ravi Teja",
+    "lastName": "Gatla",
+    "email": "ravi@gmail.com",
+    "department": "Software Developer"
+}
+
+// API-2 Update User Details
+
+{  
+    "department": "Sr.Software Developer"
+}
